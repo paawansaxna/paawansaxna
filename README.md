@@ -1,4 +1,4 @@
-# Paawan Saxena
+# Welcome - It's Paawan Saxena
 
 Computer Science Engineering student at **Jabalpur Engineering College (JEC)**.  
 Frontend-focused developer with a strong interest in UI/UX, 3D web experiences, and interactive animations.
@@ -9,7 +9,7 @@ Always learning, always building.
 
 ---
 
-## Tech Stack
+## My ToolBox
 
 ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3)
@@ -42,11 +42,3 @@ Always learning, always building.
 - Data Structures and Algorithms  
 - Backend fundamentals  
 - Advanced animations and 3D web interactions  
-
----
-
-## Connect With Me
-
-Portfolio: https://paawan-portfolio.vercel.app  
-LinkedIn: https://linkedin.com/in/your-link  
-Email: your-email@gmail.com
